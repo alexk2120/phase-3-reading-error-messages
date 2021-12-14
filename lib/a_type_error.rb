@@ -1,3 +1,4 @@
 1 + 1
+the_loneliest_number = 1
+1 + the_loneliest_number
 
-1 + "is the loneliest number"
